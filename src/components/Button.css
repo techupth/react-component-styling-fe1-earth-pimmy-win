@@ -1,0 +1,28 @@
+/* File: Button.css */
+
+.primary-button {
+    background-color: #074ee8;
+    width: 165px;
+    height: 45px;    
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 14px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+}
+  
+.secondary-button {
+    background-color: #07a4e8;
+    width: 165px;
+    height: 45px;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 14px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+}
+  
+  /* สามารถปรับแต่ง CSS ตามลักษณะที่ Figma ต้องการได้ */
+  
